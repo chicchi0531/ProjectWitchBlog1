@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: 84c7da679348d35429eceada24b39154
+timeCreated: 1505568113
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 467_fieldUI_0
+    21300002: 467_fieldUI_1
+    21300004: 467_fieldUI_2
+    21300006: 467_fieldUI_3
+    21300008: 467_fieldUI_4
+    21300010: 467_fieldUI_5
+    21300012: 467_fieldUI_6
+    21300014: 467_fieldUI_7
+    21300016: 467_fieldUI_8
+    21300018: 467_fieldUI_9
+    21300020: 467_fieldUI_10
+    21300022: 467_fieldUI_11
+    21300024: 467_fieldUI_12
+    21300026: 467_fieldUI_13
+    21300028: 467_fieldUI_14
+    21300030: 467_fieldUI_15
+    21300032: 467_fieldUI_16
+    21300034: 467_fieldUI_17
+    21300036: 467_fieldUI_18
+    21300038: 467_fieldUI_19
+    21300040: 467_fieldUI_20
+    21300042: 467_fieldUI_21
+    21300044: 467_fieldUI_22
+    21300046: 467_fieldUI_23
+    21300048: 467_fieldUI_24
+    21300050: 467_fieldUI_25
+    21300052: 467_fieldUI_26
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 467_fieldUI_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 975
+        width: 207
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 467_fieldUI_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 881
+        width: 102
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 467_fieldUI_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 799
+        width: 102
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 467_fieldUI_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 725
+        width: 102
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 467_fieldUI_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 649
+        width: 102
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 467_fieldUI_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 573
+        width: 102
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 467_fieldUI_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 102
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 467_fieldUI_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 102
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 467_fieldUI_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 102
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 467_fieldUI_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 102
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 467_fieldUI_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 884
+        width: 246
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 467_fieldUI_11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 810
+        width: 149
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 467_fieldUI_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 745
+        width: 149
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 467_fieldUI_13
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 689
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 467_fieldUI_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 688
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 467_fieldUI_15
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 650
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 467_fieldUI_16
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 649
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 467_fieldUI_17
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 788
+        width: 491
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 467_fieldUI_18
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 397
+        width: 598
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 467_fieldUI_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 1024
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 467_fieldUI_20
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 584
+        width: 103
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 467_fieldUI_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 549
+        width: 103
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 467_fieldUI_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 513
+        width: 103
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 467_fieldUI_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 480
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 467_fieldUI_24
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 447
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 467_fieldUI_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 102
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 467_fieldUI_26
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 187
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
