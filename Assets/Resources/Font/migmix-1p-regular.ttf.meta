@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e4e8acdae154e6f4d9532f710e12f04c
+timeCreated: 1507566435
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MigMix 1P
+  fontNames:
+  - MigMix 1P
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: aa0fd995401376543a00054668ba41d6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
