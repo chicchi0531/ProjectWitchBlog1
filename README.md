@@ -8,3 +8,5 @@ UnityのMecanim機能を使った画面遷移のコード例です。
 コードに関するお問い合わせは以下まで
 
 twitter : @chicchi0531
+
+(c) 2017 KoromoSoft
